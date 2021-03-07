@@ -6,7 +6,7 @@
 
 <h1 align="center"><a href = "https://www.udacity.com/course/deep-learning-nanodegree--nd101"> Udacity Deep Learning Nanodegree </a></h1>
 <h2 align="center">Project II: Convolutional Neural Network<br></h2>
-<p align="center">Designed and trained a convolutional neural network to analyze images of dogs and correctly identify their breeds. Used transfer learning and well-known architectures to improve the model.</p>
+<p align="center">Designed and trained a convolutional neural network using PyTorch to analyze images of dogs and correctly identify their breeds. Used transfer learning and well-known architectures to improve the model.</p>
 <h2 align="center"><br>Dog-Breed Classifier<br></h2>
 
 
